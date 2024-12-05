@@ -1,0 +1,23 @@
+.bg-custom{
+    background-color: rgb(2, 70, 70);
+}
+
+.custom-ul{
+   margin-top: 20px;
+   margin-left: 10px;
+}
+.custom-nav-link{
+    text-decoration: none;
+    color: aliceblue;
+    padding: 15px;
+    font-size: 20px;
+}
+.custom-card-color{
+    background-color: rgb(156, 186, 186);
+}
+.custom-card-buttom{
+    margin-left: 35px;
+}
+.custom-m-card{
+    margin: 5px;
+}
